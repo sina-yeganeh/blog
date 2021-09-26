@@ -1,2 +1,3 @@
-# blog
-My personal blog with github pages
+<samp>
+  🔄 Blog Is On Progress 
+</samp>
